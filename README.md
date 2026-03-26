@@ -1,6 +1,6 @@
 # Hi! I am Mario 🙋‍♂️
 
-I am a Computer Science student at UDC, currently developing my undergraduate final project (TFG). My research focuses on the integration of low-level motion control and computer vision on the Unitree Go2 quadruped platform, utilizing state-of-the-art AI models for autonomous navigation and task execution.
+I am a Computer Engineering student at UDC, currently developing my undergraduate final project (TFG). My research focuses on the integration of low-level motion control and computer vision on the Unitree Go2 quadruped platform, utilizing state-of-the-art AI models for autonomous navigation and task execution.
 
 <img src="https://github.com/user-attachments/assets/29f43e69-395a-4c5f-9858-e115d8964ee9" align="right" width="300" alt="hiiiii" style="margin-left: 20px;">
 
